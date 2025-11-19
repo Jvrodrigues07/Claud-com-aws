@@ -1,2 +1,2 @@
-# Claud-com-aws
-Claud with aws
+# Cloud-com-aws
+Cloud with aws
